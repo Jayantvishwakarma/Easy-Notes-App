@@ -5,5 +5,5 @@ You can write and delete your notes easily.
 
 overall project in javascript.
 
-CSS link = {https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css}
+CSS link = {//cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css}
 
